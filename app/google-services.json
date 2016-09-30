@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "1044442599534",
+    "project_id": "firebase-appchat"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044442599534:android:2ebd0101cb61613e",
+        "android_client_info": {
+          "package_name": "com.hoonrah.appchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcC5ifqGHLWDJ2n89xo2aXrUkcRWH1Ta4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
